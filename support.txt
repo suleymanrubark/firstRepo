@@ -2,4 +2,4 @@ support
 mysupport
 VERSION
 VERSIONB
-va
+va vb
